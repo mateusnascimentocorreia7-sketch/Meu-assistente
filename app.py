@@ -1,4 +1,4 @@
-import google.generativea as genai
+import google.generativeai as genai
 import streamlit as st
 
 st.title("Meu Assistente Gemini")
